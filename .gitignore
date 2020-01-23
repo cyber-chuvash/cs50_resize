@@ -1,3 +1,7 @@
+cmake-build-debug
+resize
+.idea
+
 # Prerequisites
 *.d
 
